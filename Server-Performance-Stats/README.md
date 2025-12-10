@@ -12,6 +12,16 @@ sudo yum install procps -y
 
 ## Get Started
 ### Step by step
- 1. **Clone the repository**
+1. **Clone the repository**
 ```
-git clone 
+git clone https://github.com/nhi133a/Server-Performance-Stats.git
+cd Server-Performance-Stats
+
+2. **Assign executable permission to the script using chmod**
+```bash
+chmod +x server-stats.sh
+3. **Excute the script**
+```bash
+./server-stats.sh
+
+This project is a part of roadmap.sh DevOps projects.
