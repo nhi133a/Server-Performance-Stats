@@ -20,8 +20,10 @@ cd Server-Performance-Stats
 2. **Assign executable permission to the script using chmod**
 ```bash
 chmod +x server-stats.sh
+
 3. **Excute the script**
 ```bash
+
 ./server-stats.sh
 
 This project is a part of roadmap.sh DevOps projects.
