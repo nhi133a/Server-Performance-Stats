@@ -27,3 +27,5 @@ chmod +x server-stats.sh
 ./server-stats.sh
 ```
 This project is a part of roadmap.sh DevOps projects.
+Project URL:
+https://github.com/nhi133a/Server-Performance-Stats
