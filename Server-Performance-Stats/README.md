@@ -28,4 +28,4 @@ chmod +x server-stats.sh
 ```
 This project is a part of roadmap.sh DevOps projects.
 Project URL:
-[(https://roadmap.sh/projects/server-stats)]
+https://roadmap.sh/projects/server-stats
